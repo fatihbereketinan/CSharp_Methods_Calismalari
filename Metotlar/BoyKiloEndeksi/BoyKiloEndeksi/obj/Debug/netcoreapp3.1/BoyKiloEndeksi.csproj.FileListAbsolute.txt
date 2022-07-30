@@ -1,0 +1,13 @@
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Boy Kilo Endeksi Uygulaması\BoyKiloEndeksi\BoyKiloEndeksi\bin\Debug\netcoreapp3.1\BoyKiloEndeksi.exe
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Boy Kilo Endeksi Uygulaması\BoyKiloEndeksi\BoyKiloEndeksi\bin\Debug\netcoreapp3.1\BoyKiloEndeksi.deps.json
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Boy Kilo Endeksi Uygulaması\BoyKiloEndeksi\BoyKiloEndeksi\bin\Debug\netcoreapp3.1\BoyKiloEndeksi.runtimeconfig.json
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Boy Kilo Endeksi Uygulaması\BoyKiloEndeksi\BoyKiloEndeksi\bin\Debug\netcoreapp3.1\BoyKiloEndeksi.runtimeconfig.dev.json
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Boy Kilo Endeksi Uygulaması\BoyKiloEndeksi\BoyKiloEndeksi\bin\Debug\netcoreapp3.1\BoyKiloEndeksi.dll
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Boy Kilo Endeksi Uygulaması\BoyKiloEndeksi\BoyKiloEndeksi\bin\Debug\netcoreapp3.1\BoyKiloEndeksi.pdb
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Boy Kilo Endeksi Uygulaması\BoyKiloEndeksi\BoyKiloEndeksi\obj\Debug\netcoreapp3.1\BoyKiloEndeksi.csprojAssemblyReference.cache
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Boy Kilo Endeksi Uygulaması\BoyKiloEndeksi\BoyKiloEndeksi\obj\Debug\netcoreapp3.1\BoyKiloEndeksi.AssemblyInfoInputs.cache
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Boy Kilo Endeksi Uygulaması\BoyKiloEndeksi\BoyKiloEndeksi\obj\Debug\netcoreapp3.1\BoyKiloEndeksi.AssemblyInfo.cs
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Boy Kilo Endeksi Uygulaması\BoyKiloEndeksi\BoyKiloEndeksi\obj\Debug\netcoreapp3.1\BoyKiloEndeksi.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Boy Kilo Endeksi Uygulaması\BoyKiloEndeksi\BoyKiloEndeksi\obj\Debug\netcoreapp3.1\BoyKiloEndeksi.dll
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Boy Kilo Endeksi Uygulaması\BoyKiloEndeksi\BoyKiloEndeksi\obj\Debug\netcoreapp3.1\BoyKiloEndeksi.pdb
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Boy Kilo Endeksi Uygulaması\BoyKiloEndeksi\BoyKiloEndeksi\obj\Debug\netcoreapp3.1\BoyKiloEndeksi.genruntimeconfig.cache
